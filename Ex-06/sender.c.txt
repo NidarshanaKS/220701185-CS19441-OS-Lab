@@ -12,7 +12,6 @@ char c;
 int shmid;
 key_t key;
 
-30
 
 char *shared_memory;
 
